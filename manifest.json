@@ -1,9 +1,11 @@
 {
-
-    "name": "JSON Sheets",
-  "description": "Convert JSON into a Google Sheet, and vice versa.",
   "version": "0.0.1",
   "manifest_version": 2,
+  "name": "JSON Sheets",
+  "description": "Convert JSON into a Google Sheet, and vice versa.",
+  "background": {
+    "scripts": ["script.js"]
+  },
   "browser_action": {
     "default_icon":   { 
       
