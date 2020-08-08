@@ -5,9 +5,11 @@
 ![alt text](https://github.com/lalithakunchala/jsonToCSv/blob/master/extension.png "Home Screenshot")
 
 ## Teck Stack
+...
 
->HTML
->Manifest.json
+HTML
+Manifest.json
+....
 
 ## Instructions 
 
