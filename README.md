@@ -5,31 +5,26 @@
 ![alt text](https://github.com/lalithakunchala/jsonToCSv/blob/master/extension.png "Home Screenshot")
 
 ## Teck Stack
-...
 
 * HTML
 * Manifest.json
-....
 
 ## Instructions 
 
-1. Install the necessary dependencies.
+1. Clone the repo.
 
 ```
-npm install
+https://github.com/lalithakunchala/jsonToCSv.git
 ```
 
-2. To start the development server, execute the following command.
+2. To check the functionaility add to extensions in firefox
 
 ```
-npm start
-```
-
-3. To start the production build, execute the following command.
+Goto - About:Debugging --> load Extension -->check functionality
 
 ```
-npm run build
-```
+
+
 ## How to use
 
 > Need to install add-on from firefox -(JSON Sheets)
