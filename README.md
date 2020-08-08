@@ -7,8 +7,8 @@
 ## Teck Stack
 ...
 
-HTML
-Manifest.json
+* HTML
+* Manifest.json
 ....
 
 ## Instructions 
